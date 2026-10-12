@@ -1,0 +1,74 @@
+body{
+    color: black;
+background-color: #44c5c5;
+font-size: 20px;
+}
+
+
+/* targeting h1 tag, Font-size, letterspacing, font-family, text transform  */
+h1{
+    color: white;
+    background-color: rgb(3, 20, 20);
+    font-size: 100px;
+    letter-spacing: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+}
+
+
+/* targeting class */
+/* .sec1{
+    color: darkkhaki;
+    background-color: #96215b;
+} */
+
+
+/* targeting id  */
+/* #about{
+color:white
+    background-color: blue;
+}
+  */
+
+
+  /* px unit */
+/* h1{
+    color: white;
+    background-color: rgb(3, 20, 20);
+    font-size: 100px;
+} */
+
+/* % unit (According to the parent element font size) */
+/* h1{
+    color: white;
+    background-color: rgb(3, 20, 20);
+    font-size: 20%;
+} */ */
+
+/* rem unit ( According to the root element font size) */
+/* h1{
+    color: white;
+    background-color: rgb(3, 20, 20);
+    font-size: 2rem;
+} */
+
+/* em unit (According to the nearest parent element font size) */
+/* h1{
+    color: white;
+    background-color: rgb(3, 20, 20);
+    font-size: 2em;
+} */
+
+/* vw unit (According to the viewport width) */ 
+/* h1{
+    color: white;
+    background-color: rgb(3, 20, 20);
+    font-size: 2vw;
+} */
+
+/* vh unit (According to the viewport height) */
+/* h1{
+    color: white;
+    background-color: rgb(3, 20, 20);
+    font-size: 2vh;
+} */
