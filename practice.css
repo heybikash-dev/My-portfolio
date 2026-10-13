@@ -1,0 +1,26 @@
+.div{
+    display: flex;
+    height: 100%;
+      background-color: rgb(107, 43, 167);
+     flex-wrap: wrap;
+      align-items: end;
+    justify-content: center;
+    gap: 30px;
+
+
+.first {
+    height: 20%;
+    width: 20%;
+    background-color: rgb(41, 216, 35);
+    flex-shrink: 0;
+    border : 2px dashed black;
+    
+}
+.second {
+    height: 20%;
+    width: 20%;
+    border: 2px dashed rgb(240, 230, 230);
+   flex-shrink: 0;
+    background-color: red;
+}
+}
