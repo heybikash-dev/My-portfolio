@@ -1,6 +1,6 @@
 body{
     color: black;
-background-color: #44c5c5;
+background-color: burlywood;
 font-size: 20px;
 }
 
@@ -15,10 +15,24 @@ h1{
     text-transform: uppercase;
     padding: 50px;
     margin: 50px;
+}
+
+
     /* position: sticky;
     top: 0%; */
+   
 
+nav{
+    background-color: black;
+    letter-spacing: 10px;
+    font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 50px;
+    color: white;
+    font: bold;
+    margin: 10px;
+   font-size: 25px;
 
+}
     
 /* } */
 /* *{
