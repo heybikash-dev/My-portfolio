@@ -32,3 +32,44 @@ nav ul li{
     list-style: none;
     margin: 0 23px;
 }
+
+nav ul li a{
+   text-decoration: none;
+   color: white;
+}
+
+nav ul li a:hover {
+   color: rgb(39, 228, 21);
+   font-size: 1.2rem;
+}
+
+.firstSection{
+    display: flex;
+    justify-content: space-around;
+align-items: center;
+        margin: 80px 0;
+
+}
+
+.firstSection > div {
+    width: 30%;
+}
+
+
+.leftSection{
+ 
+    
+    width: 50%;
+    font-size: 3rem;
+  
+}
+ 
+.rightSection{
+ 
+    margin: 30
+     0;
+    width: 50%;
+}
+.purple{
+    color: rgb(255, 0, 255);
+}
